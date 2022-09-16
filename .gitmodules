@@ -1,0 +1,12 @@
+[submodule "operacoes"]
+	path = operacoes
+	url = https://github.com/laurowrn/operacoes.git
+	branch = master
+[submodule "fs_simul"]
+	path = fs_simul
+	url = https://github.com/crmoratelli/fs_simul.git
+	branch = master
+[submodule "repo_submodulo"]
+	path = repo_submodulo
+	url = https://github.com/VitorIntegre/repo_submodulo.git
+	branch = master
